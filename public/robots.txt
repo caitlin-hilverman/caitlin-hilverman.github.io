@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://caitlin-hilverman.github.io/sitemap.xml
